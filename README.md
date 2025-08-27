@@ -1,6 +1,6 @@
 # PDF to Markdown Extractor
 
-A simple Python tool to extract text from PDF files and convert them to Markdown format.
+A simple Python tool to extract text from PDF files and convert them to Markdown format. Can be used to feed an LLM with the Markdown output. For example using fabric ai and the pattern "extract_wisdom".
 
 ## Features
 
