@@ -46,7 +46,6 @@ Thumbs.db
 
 # Test files and outputs
 *.pdf
-*.md
 test_*.py
 temp/
 tmp/
